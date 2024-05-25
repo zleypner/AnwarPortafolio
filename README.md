@@ -9,7 +9,7 @@
 
 ## Link
 
-You can access the portafolio clicking [here.](https://zleypner.github.io/Main-Portafolio/)
+You can access the portafolio clicking [here.](https://zleypner.github.io/AnwarPortafolio/)
 
-https://zleypner.github.io/Main-Portafolio/
+https://zleypner.github.io/AnwarPortafolio/
 
